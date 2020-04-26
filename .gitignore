@@ -1,0 +1,5 @@
+.mono
+.import
+*.log
+.vs
+*.blend1
